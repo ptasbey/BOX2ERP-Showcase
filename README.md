@@ -6,20 +6,30 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<img src="./assets/box-logo-login.png" alt="Logo"> BOX2ERP
+<div align="center">
+  <img src="assets\box-logo-login-white.png" width=150px>
+</div>
+
+<br>
 
 **BOX2ERP** is a streamlined, role-based ERP and MRP web application built with **ASP.NET Core 9 MVC**. While BOX2ERP does not claim to be a "full-featured" corporate ERP suite yet, it was born with that ambition. It is a continuously evolving system designed to meet the essential ERP and MRP needs of small to medium-sized enterprises (SMEs), focusing on practical utility over unnecessary complexity.
 It is designed to streamline the end-to-end order lifecycle—covering everything from sales entry and production planning to procurement, logistics, and shipment tracking.
 
 ---
 
-## ✨ Features
+## Features
 
 ### 📊 Dashboard
 - Real-time KPI summary cards (orders this year, open orders, shipped, idle)
 - Interactive **Chart.js** pie chart — orders per customer
 - Weekly planners: planned shipments, overdue orders, recently shipped
 - Embedded **Google Calendar** integration for team events
+<div align="center">
+  <kbd>
+    <img src="assets\img1.png" width=300px>
+  </kbd>
+  <p><i>Dashboard and Chart.js integration</i></p>
+</div>
 
 ### 🛒 Order & Shipment Planning
 - Order lifecycle management with multi-status tracking
@@ -27,6 +37,12 @@ It is designed to streamline the end-to-end order lifecycle—covering everythin
 - Location-based production tracking (raw material → laser → bending → welding → paint → packing → shipping)
 - Target & planned shipment date management with overdue detection
 - Shipment type support with sub-categories: **Sea**, **Air**, **Truck**
+<div align="center">
+  <kbd>
+    <img src="assets\img2.png" width=300px>  <img src="assets\img3.png" width=445px>
+  </kbd>
+  <p><i>Shipment Plan & Creating a New Order Object</i></p>
+</div>
 
 ### 📦 Product Management
 - Product catalog with grouping, tagging, and component tracking
@@ -34,6 +50,12 @@ It is designed to streamline the end-to-end order lifecycle—covering everythin
 - Visualization of Child and Parent component relationships with BOM list
 - Versioning System
 - Product categories, paint types, and paint type rules
+<div align="center">
+  <kbd>
+    <img src="assets\img5.png" width=250px> <img src="assets\img6.png" width=300px> <img src="assets\img7.png" width=300px>
+  </kbd>
+  <p><i>Product Details & Editing Child Components & Paint Type Rules</i></p>
+</div>
 
 ### 👥 Customer & Supplier Management
 - Customer master data
@@ -43,6 +65,12 @@ It is designed to streamline the end-to-end order lifecycle—covering everythin
 ### 🚚 Logistics Requests & Shipments
 - Request management per order with completion tracking
 - Creating shipment cards for requested shipments with shipment details
+<div align="center">
+  <kbd>
+    <img src="assets\img9.png" width=400px> <img src="assets\img8.png" width=510px>
+  </kbd>
+  <p><i>Logistics Requests (tickets for shipment objects) & Assigned Shipments</i></p>
+</div>
 
 ### 📝 Task Management
 - Task creation with assignments and attachments
