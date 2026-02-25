@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-# 📦 BOX2ERP
+<img src="./assets/box-logo-login.png" alt="Logo"> BOX2ERP
 
 **BOX2ERP** is a streamlined, role-based ERP and MRP web application built with **ASP.NET Core 9 MVC**. While BOX2ERP does not claim to be a "full-featured" corporate ERP suite yet, it was born with that ambition. It is a continuously evolving system designed to meet the essential ERP and MRP needs of small to medium-sized enterprises (SMEs), focusing on practical utility over unnecessary complexity.
 It is designed to streamline the end-to-end order lifecycle—covering everything from sales entry and production planning to procurement, logistics, and shipment tracking.
@@ -134,3 +134,4 @@ Supported cultures: `en-US` (default), `tr-TR`. Switch languages through the in-
 <p align="center">
   Built with ❤️ using <strong>ASP.NET Core 9</strong>
 </p>
+
