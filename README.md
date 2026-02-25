@@ -52,7 +52,7 @@ It is designed to streamline the end-to-end order lifecycle—covering everythin
 - Product categories, paint types, and paint type rules
 <div align="center">
   <kbd>
-    <img src="assets\img5.png" width=250px> <img src="assets\img6.png" width=300px> <img src="assets\img7.png" width=300px>
+    <img src="assets\img5.png" width=220px> <img src="assets\img6.png" width=250px> <img src="assets\img7.png" width=250px>
   </kbd>
   <p><i>Product Details & Editing Child Components & Paint Type Rules</i></p>
 </div>
@@ -67,7 +67,7 @@ It is designed to streamline the end-to-end order lifecycle—covering everythin
 - Creating shipment cards for requested shipments with shipment details
 <div align="center">
   <kbd>
-    <img src="assets\img9.png" width=400px> <img src="assets\img8.png" width=510px>
+    <img src="assets\img9.png" width=320px> <img src="assets\img8.png" width=390px>
   </kbd>
   <p><i>Logistics Requests (tickets for shipment objects) & Assigned Shipments</i></p>
 </div>
